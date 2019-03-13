@@ -12,8 +12,7 @@ namespace TabPageApp
             InitializeComponent();
 
             //MainPage = new MainPage();
-            // MainPage = new TabbedPage
-            MainPage = new CarouselPage
+             MainPage = new TabbedPage
 
             {
                 Children ={
